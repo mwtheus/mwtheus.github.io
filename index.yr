@@ -189,7 +189,7 @@ _main
           _pre #yr-mirror .yrkit-preview__mirror aria-hidden="true"
           _textarea #yr-editor .yrkit-preview__editor spellcheck="false" wrap="off" autocapitalize="off" autocomplete="off" autocorrect="off" aria-label="Editor de código yr"
       _iframe #yr-preview-frame .yrkit-preview__frame sandbox="allow-scripts allow-modals allow-forms" title="Pré-visualização"
-    _a href="https://yr-lang.org/docs" target="_blank" rel="noopener" .yrkit-docs-link data-i18n="projetos.docs"
+    _a href="https://yr-lang.org/" target="_blank" rel="noopener" .yrkit-docs-link data-i18n="projetos.docs"
   _section #contato .section
     _p .line-comment data-i18n="file.contato"
       contato.js
