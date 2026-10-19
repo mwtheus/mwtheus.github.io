@@ -16,7 +16,7 @@ _link rel="icon" href="https://yrkit.site/favicon.ico" sizes="any"
 _script src="https://cdn.yr-lang.org/yr.js"
 
 ><
-                
+
 _header .tabbar role="navigation" aria-label="Navegação principal" data-i18n-aria="header.aria"
   _ .tabbar__brand
     ~/mwtheus
